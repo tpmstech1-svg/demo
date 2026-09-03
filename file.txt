@@ -1,1 +1,3 @@
-this is my file in local repository
+this is my file in local reps new
+line added
+one mre line
